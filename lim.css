@@ -1,0 +1,61 @@
+
+body{
+background-image: url(disegno.jpg);
+background-size:cover;
+
+}
+.foto1{
+  margin:auto;
+  height: 100px;
+  width: 200px;
+}
+.write{
+  font-size: 30px;
+  color: #62d522f0;
+
+}
+.tabella{
+  display:inline-block;
+  background-color:#62d522f0;;
+  width: 700px;
+  padding: 15px;
+  margin: auto;
+
+}
+.container{
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 40px;
+  margin-left: 300px;
+  margin-right: 150px;
+  background-color: #08000057;
+}
+.write1{
+  width: 705px;
+  color:white;
+  text-align: left;
+
+
+}
+.write2{
+  width:290px;
+  display: inline-block;
+  height: 35px;
+  background-color:#dfb023;
+
+}
+.mono2{
+  width:550px;
+  display: inline-block;
+  height: 35px;
+  background-color:#62d522f0;
+
+}
+.mono3{
+  width:70px;
+  display: inline-block;
+  height: 35px;
+  background-color:red;
+
+}
